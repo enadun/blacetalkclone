@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Blacetalk</string>
+    <string name="no_events">No Events!</string>
+    <string name="recent_episodes">Recent Episodes</string>
+    <string name="top_channels">Top Channels</string>
+    <string name="speakers">Speakers</string>
+    <string name="view_all">View All</string>
+    <string name="episodes">episodes</string>
+</resources>

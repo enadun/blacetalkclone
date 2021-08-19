@@ -1,0 +1,64 @@
+{
+  "data": {
+    "episodes": [
+      {
+        "episode": "E06",
+        "title": "Mobile Development - Common Mistakes to Avoid when Developing Mobile Apps",
+        "club": "Mobile App Talks",
+        "date": "August 07"
+      },
+      {
+        "episode": "E01",
+        "title": "Prepare for Interviews - Tips of Job Interviews",
+        "club": "SL 6AM Success",
+        "date": "August 05"
+      },
+      {
+        "episode": "E01",
+        "title": "Presentations හොඳටම කරමු - Presentations හොඳටම කරමු Episode 01",
+        "club": "Lets Talk in Sinhala",
+        "date": "August 05"
+      },
+      {
+        "episode": "E01",
+        "title": "Let's Learn SEO - What is SEO?",
+        "club": "Insfra Radio",
+        "date": "August 05"
+      }
+    ],
+    "channels": [
+      {
+        "name": "Mayanna",
+        "episodes": 13,
+        "image": "ic_mayanna"
+      },
+      {
+        "name": "Mobile APP Talks",
+        "episodes": 6,
+        "image": "ic_mobile"
+      },
+      {
+        "name": "OECSL",
+        "episodes": 5,
+        "image": "ic_oecsl"
+      }
+    ],
+    "speakers": [
+      {
+        "name": "Madusanka Premarathne",
+        "episodes": 20,
+        "image": "ic_madusanka"
+      },
+      {
+        "name": "Charith Weerasooriya",
+        "episodes": 16,
+        "image": "ic_charith"
+      },
+      {
+        "name": "Em Shaveen",
+        "episodes": 13,
+        "image": "ic_shaveen"
+      }
+    ]
+  }
+}
